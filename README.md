@@ -38,8 +38,8 @@ Designed a dashboard containing of 6 pages in the Report View with specific name
 - These pages include the KPI displaying the Revenue,Orders,Profit,target,monthly revenue and monthly orders .The Line chart displays the weekly revenue ,Horizondal bar chart displays the no of sales of each category,also displays top 10 products and top ordered category.
 - In the Customer Details page it displays the unique customers, average revenue per customer.The donut charts displays based on the occupation and income level of the customers.The line chart displays the weekly customers based on the calendar dates.The table displays the top 100 customers along with the specific details.
 - In the Territories page, displays the map view where the sales is done along with the customised tooltip which I have made that gives the complete details of the sales.
-- In the Product Details page, comprises of table displaying the top 1000 products filtered by the revenue,donut chart gives no of sales based on the product category,funnel chart gives the sales in value and percentage based on different colour of the products,the tree chart gives no of sales based on the product size.
-- The drill through which profit page that well focused data on profit based of the product name and the last one the tooltip which is the customised one.
+- In the Product Details page, comprises of table displaying all the products,donut chart gives no of sales based on the product category,funnel chart gives the sales in value and percentage based on different colour of the products,the tree chart gives no of sales based on the product size.
+- The drill through which is the profit page that is well focused data on profit based on the product name and the last one is the tooltip which is the customised one.
 
 
 ### Enhancing Interactivity:
